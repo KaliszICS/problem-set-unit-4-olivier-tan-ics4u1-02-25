@@ -1,0 +1,8 @@
+K(30%): 100
+I(30%): 93
+C(10%): 50
+A(30%): 95
+Missing javadocs!  Comments do not replace them
+Equals method should check if the object is null or another class before converting
+Equals method does not need an if statement at the end.  Just return the condition
+reshuffle and your array consturctor for deck could use your addcard method to simplify coding.
